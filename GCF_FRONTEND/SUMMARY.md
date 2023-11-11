@@ -2,7 +2,7 @@
 
 ## Dzień 1
 
-* [1⃣ Wprowadzenie frontend](README.md)
+* [1⃣ Wprowadzenie do frontendu](README.md)
 
 ## Dzień 2
 
