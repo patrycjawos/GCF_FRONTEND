@@ -1,10 +1,10 @@
 # Table of contents
 
-* [🐒 Start](README.md)
+* [🥳 Start](README.md)
 
 ## Dzień 1
 
-* [1⃣ Wprowadzenie do frontendu](<README (1).md>)
+* [1 Wprowadzenie do frontendu](<README (1).md>)
 * [2 Wstęp do HTML5](dzien-1/wstep-do-html5.md)
 
 ## Dzień 2
