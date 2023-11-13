@@ -3,6 +3,7 @@ description: >-
   Przedstawienie podstawowych znaczników języka HTML 5 potrzebnych do zbudowania
   strony internetowej. Analiza projektu graficznego strony, którą będziemy
   kodować. Dołączanie obrazków do pliku .html.
+coverY: 0
 ---
 
 # 2⃣ Wstęp do HTML5

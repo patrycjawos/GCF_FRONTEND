@@ -3,6 +3,7 @@ description: >-
   Czym są i jak działają strony internetowe, jak korzystać z narzędzi
   developerskich (devtools) w przeglądarkach i z edytora kodu (Visual Studio
   Code)
+coverY: 0
 ---
 
 # 1⃣ Wprowadzenie do frontendu

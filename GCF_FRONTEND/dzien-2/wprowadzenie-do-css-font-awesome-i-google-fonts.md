@@ -3,6 +3,7 @@ description: >-
   Przedstawienie, czym jest CSS, jaka jest jego składnia i poznanie podstaw
   dotyczących edycji tekstu, kolorów. Dodawanie klas i identyfikatorów w pliku
   HTML. Wykorzystanie selektorów do stylowania.
+coverY: 0
 ---
 
 # 1⃣ Wprowadzenie do CSS, Font Awesome i Google Fonts
@@ -209,7 +210,9 @@ Dobrze jest wybierać sposób określania kolorów w zależności od potrzeb i p
 \
 **SVG (Scalable Vector Graphics)** -  to format plików graficznych, który jest używany do reprezentowania dwuwymiarowej grafiki wektorowej w sposób skalowalny, czyli bez utraty jakości przy zmianie rozmiaru (w porównaniu do PNG np). SVG jest popularny w tworzeniu ikon, grafik, animacji i innych elementów interfejsu użytkownika na stronach internetowych.\
 \
-Baza \~1500 darmowych ikonek svg - https://iconoir.com/
+**Baza \~ 1500 darmowych ikonek svg**&#x20;
+
+{% embed url="https://iconoir.com/" %}
 
 
 
