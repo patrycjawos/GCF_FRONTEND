@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🥳 Start](README.md)
+* [🥳 Wstęp](README.md)
 
 ## Dzień 1
 
