@@ -15,7 +15,9 @@
 
 ## Dzień 3
 
-* [1 Page 1](dzien-3/page-1.md)
+* [1 Podstawy CSS – pozycje elementów, pseudoelementy](dzien-3/podstawy-css-pozycje-elementow-pseudoelementy.md)
+* [2 Podstawy CSS – pseudoklasy i animacje](dzien-3/podstawy-css-pseudoklasy-i-animacje.md)
+* [3 Responsive Web Design (RWD)](dzien-3/responsive-web-design-rwd.md)
 
 ## Dzień 4
 
