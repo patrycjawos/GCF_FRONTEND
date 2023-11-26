@@ -22,3 +22,4 @@
 ## Dzień 4
 
 * [1 Podstawy javascript](dzien-4/page-2.md)
+* [2 Kod strony](dzien-4/kod-strony.md)
