@@ -21,4 +21,4 @@
 
 ## Dzień 4
 
-* [Podstawy javascript](dzien-4/podstawy-javascript.md)
+* [1 Podstawy javascript](dzien-4/page-2.md)
