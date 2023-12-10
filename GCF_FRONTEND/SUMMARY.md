@@ -23,3 +23,7 @@
 
 * [1 Podstawy javascript](dzien-4/page-2.md)
 * [2 Kod strony](dzien-4/kod-strony.md)
+
+## SQL
+
+* [Page 1](sql/page-1.md)
