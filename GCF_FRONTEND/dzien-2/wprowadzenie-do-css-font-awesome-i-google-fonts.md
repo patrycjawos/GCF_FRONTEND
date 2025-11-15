@@ -6,7 +6,7 @@ description: >-
 coverY: 0
 ---
 
-# 1⃣ Wprowadzenie do CSS, Font Awesome i Google Fonts
+# 1️ Wprowadzenie do CSS, Font Awesome i Google Fonts
 
 **CSS, czyli Cascading Style Sheets,** to język stylów używany do opisywania wyglądu i formatowania dokumentów HTML (lub XML). CSS umożliwia separację struktury dokumentu od jego prezentacji, co pozwala na lepszą kontrolę nad wyglądem strony internetowej.
 
@@ -221,4 +221,4 @@ Dobrze jest wybierać sposób określania kolorów w zależności od potrzeb i p
 * ?
 * ?
 
-​​📗**Materiały dodatkowe:**​
+​​📗**Materiały dodatkowe:**&#x200B;

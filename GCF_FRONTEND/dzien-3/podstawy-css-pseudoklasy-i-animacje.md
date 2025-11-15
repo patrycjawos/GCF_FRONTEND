@@ -1,8 +1,9 @@
 ---
+hidden: true
 coverY: 0
 ---
 
-# 2 Podstawy CSS – pseudoklasy i animacje
+# 2️ Podstawy CSS – pseudoklasy i animacje
 
 ### Pseudoklasy
 

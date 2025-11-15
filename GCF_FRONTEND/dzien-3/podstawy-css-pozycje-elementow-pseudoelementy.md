@@ -1,8 +1,9 @@
 ---
+hidden: true
 coverY: 0
 ---
 
-# 1 Podstawy CSS – pozycje elementów, pseudoelementy
+# 1️ Podstawy CSS – pozycje elementów, pseudoelementy
 
 ### Position
 

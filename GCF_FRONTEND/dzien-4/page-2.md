@@ -1,8 +1,9 @@
 ---
+hidden: true
 coverY: 0
 ---
 
-# 1 Podstawy javascript
+# 1️ Podstawy javascript
 
 JavaScript to wszechstronny język programowania stosowany głównie do tworzenia interaktywnych stron internetowych. Jest to język skryptowy, który umożliwia dodawanie funkcjonalności, interakcji i animacji do stron internetowych. Jest także szeroko używany w tworzeniu aplikacji internetowych zarówno po stronie klienta (front-end) jak i serwera (back-end), dzięki platformie Node.js. JavaScript jest dynamiczny, obsługuje wiele paradygmatów programowania (takich jak programowanie obiektowe czy funkcjonalne) i posiada bogate zestaw bibliotek i frameworków ułatwiających rozwój oprogramowania.
 

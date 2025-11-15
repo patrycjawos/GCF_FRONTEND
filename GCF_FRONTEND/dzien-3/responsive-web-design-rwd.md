@@ -1,8 +1,9 @@
 ---
+hidden: true
 coverY: 0
 ---
 
-# 3 Responsive Web Design (RWD)
+# 3️ Responsive Web Design (RWD)
 
 ### RWD (Responsive Web Design)&#x20;
 
