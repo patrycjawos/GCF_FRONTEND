@@ -1,5 +1,4 @@
 ---
-hidden: true
 coverY: 0
 ---
 
@@ -140,4 +139,4 @@ Właściwość `transform` jest potężnym narzędziem do manipulowania wygląde
 
 #### Playground: [https://developer.mozilla.org/en-US/docs/Web/CSS/transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 
-\
+<br>
